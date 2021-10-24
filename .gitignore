@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+./my-blog-backend/config/default.json
 
 # testing
 /coverage
